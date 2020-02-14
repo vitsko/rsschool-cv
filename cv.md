@@ -1,11 +1,13 @@
 # Vitaliy Skoblin
 
-## Contact info:
+## Contact info
 - Mobile: +7 (912) 871-59-63
 - Skype: epam_skoblin_vitaliy
-## Brief info about Me.
+
+## Brief info about Me
 Now I am junior software engineer at Epam Systems.About 6 years, until Octomber 2018, I worked as software testing engineer. I have experience in field of software testing and development.
-## My skills:
+
+## My skills
 - Programming: C#, little bit Javascript
 - Microsoft Sharepoint products and technologies: Sharepoint 2010
 - Command-line shell and associated scripting language: PowerShell 
@@ -32,5 +34,5 @@ Izhevsk State Technical University|Quality Control|Mechatronic Systems|Bachelor|
  * [Automated Testing Mentoring Program #3 (2017Q4)](https://learn.epam.com/detailsPage?id=03e56be7-e2cf-4cce-a0d2-8ec65f62c41a&source=PROGRAM_RUN)
  * [Junior Software Testing Engineer Summer Bootcamp](https://learn.epam.com/detailsPage?id=1c3ebf16-39b0-46e9-9ef5-fb2d78637472&source=EVENT)
  
-## English.
+## English
 I was language assessment in 2016 at EPAM Systems. My level is A2+. 

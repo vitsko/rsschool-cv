@@ -1,0 +1,99 @@
+﻿* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  line-height: 1.5;
+  color: #24292e;
+  background-color: #fff;
+}
+
+.main-block {
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.container {
+  max-width: 1024px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 16px !important;
+  padding-left: 16px !important;
+  margin-top: 32px !important;
+  margin-bottom: 32px !important;
+}
+
+  .container header h1 {
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #eaecef;
+  }
+
+.main-foto-cv {
+  border-radius: 50%;
+}
+
+.container header h1,
+.container header h2 {
+  margin-top: 24px;
+  margin-bottom: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.container header h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eaecef;
+}
+
+.container ul {
+  padding-left: 2em;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.container p {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.container table {
+  display: block;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: 16px;
+  overflow: auto;
+  border-spacing: 0;
+  border-collapse: collapse;
+  border-color: grey;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table th {
+  font-weight: 600;
+}
+
+table th,
+table td {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
